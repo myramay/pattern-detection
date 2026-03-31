@@ -1,0 +1,6 @@
+/* Injected into every page by the extension */
+
+.dpd-highlight {
+  outline: 3px solid #FFD700 !important;
+  outline-offset: 2px !important;
+}
